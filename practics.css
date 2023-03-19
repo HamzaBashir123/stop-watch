@@ -1,0 +1,53 @@
+/* .img3{
+    width: 300Px;
+    height: 300px;
+    
+}
+.img1{
+    width: 200Px;
+    height: 200px;
+} */
+*{
+    background-color: black;
+    text-align: center;
+
+}
+
+/* .butt{
+    background-color: aliceblue;
+    margin-top: 10px;
+    height: 50px;
+    width: 70px;
+    border-radius: 10px;
+}
+.butt:active{
+    background-color: peru;
+} */
+.head  {
+    color: white;
+    display: inline-block;
+    width: 70px;
+   
+    
+   
+}
+h1, p {
+    text-align: center;
+    color: white;}
+.butt{
+    color: black;
+    display: inline-block;
+    background-color: white;
+    width: 100px;
+    height: 30px;
+    font-weight: bolder;
+
+    
+}
+.butt:active{
+  background-color: chocolate;
+  color: white;
+}
+#input{
+    color: white;
+}

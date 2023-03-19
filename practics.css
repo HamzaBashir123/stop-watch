@@ -12,7 +12,13 @@
     text-align: center;
 
 }
-
+body{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10%;
+    /* background-color: antiquewhite; */
+}
 /* .butt{
     background-color: aliceblue;
     margin-top: 10px;
